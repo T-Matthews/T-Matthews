@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Matthews
 - 👀 I’m interested in learning how to create websites, and persuing cleaner and more efficient coding practices. 
-- 🌱 I’m currently learning the basics of JavaScript.
+- 🌱 I’m currently working on a Django based card game application
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
